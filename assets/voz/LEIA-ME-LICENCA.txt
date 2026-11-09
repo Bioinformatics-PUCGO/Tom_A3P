@@ -1,0 +1,11 @@
+VOZ DO TOM — componentes de terceiros nesta pasta
+
+mespeak.bundle.js, mespeak_config.json, pt.json
+  meSpeak 1.9.6 (Norbert Landsteiner, https://www.masswerk.at/mespeak/), versão para navegador do
+  sintetizador de voz eSpeak (Jonathan Duddington). Embalado a partir do pacote npm "mespeak" 2.0.2
+  (https://www.npmjs.com/package/mespeak). Licença: GNU GPL v3 (texto em GPL-3.0.txt, nesta pasta).
+  Código-fonte: https://www.masswerk.at/mespeak/ e o repositório do eSpeak.
+
+Como esta pasta é publicada junto com o site (GitHub público), o código-fonte do site também fica aberto,
+o que atende à licença. Se o site for distribuído de outra forma, mantenha este aviso e o texto da licença.
+Para usar só a voz do navegador (sem este componente), apague esta pasta: o Tom volta à voz natural do celular.
